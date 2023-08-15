@@ -17,3 +17,13 @@
 .pessoa__imagem--andreia{
     background-image: url(../../img/pessoas/andreia.jpg);
 }
+
+.pessoa__imagem--roberta:hover{
+    cursor:pointer ;
+}
+.pessoa__imagem--marcela:hover{
+    cursor: pointer;
+}
+.pessoa__imagem--andreia:hover{
+    cursor: pointer;
+}
