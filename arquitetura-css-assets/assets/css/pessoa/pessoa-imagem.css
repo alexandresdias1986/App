@@ -1,10 +1,10 @@
 .pessoa__imagem{
+    background-position:center ;
+    background-size: cover;
+    background-repeat: no-repeat;
     height: 300px;
     width: 300px;
     margin: 0 auto;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position:center ;
     border-radius: 100%;
 }
 
